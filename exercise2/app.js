@@ -1,6 +1,6 @@
 'use strict';
 function b() {
-    var myVar;
+//    var myVar;
     console.log('Caller b!');
     console.log(myVar);
 }
